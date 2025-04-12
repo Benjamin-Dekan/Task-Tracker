@@ -10,3 +10,16 @@ class CLI {
     std::string updatedAt;
 };
 
+int main () {
+
+
+
+    while(1) {
+        std::string userInput;
+        std::cin >> userInput;
+        
+
+    }
+
+    return 0;
+}
